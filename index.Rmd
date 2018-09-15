@@ -1,0 +1,78 @@
+---
+title: "Tobias Schuwerk"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<img src="pic.jpg" style="width:25%; margin-right: 20px" align="middle">
+
+## Contact
+
+Dr. Tobias Schuwerk, Dipl.-Psych.  
+Developmental Psychology    
+Ludwig-Maximilians-Universität München  
+Leopoldstr. 13  
+80802 München  
+Germany  
+
+[E-mail](mailto:tobias.schuwerk@psy.lmu.de)  
+[twitter](https://twitter.com/TobiasSchuwerk)
+
+## Research
+
+You can also embed plots, for example:
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Projects
+
+### Heureka!
+### Crossing
+### ManyBabies2
+
+## Publications
+
+### 2018
+**Schuwerk, T.**, Priewasser, B., Sodian, B., & Perner, J. (in press). The Robustness and Generalizability of Findings on Spontaneous False Belief Sensitivity. A Replication attempt. *Royal Society Open Science.* [DOI: 10.1098/rsos.172273](http://rsos.royalsocietypublishing.org/content/5/5/172273)
+
+**Schuwerk, T. (2018)**. Autismus und soziale Interaktion im Alltag: neue Forschungswege [Autism and social interaction in everyday life: new research avenues]. *Persönlichkeitsstörungen: Theorie und Therapie, 22,* 72-84. [link](https://www.klett-cotta.de/ausgabe/PTT_-_Persoenlichkeitsstoerungen_Heft_01_März_2018/93169?bereich_subnavi=heft)
+
+Sommer, M., Döhnel, K., Jarvers, I., Blaas, L., Singer, M., Nöth, V., **Schuwerk, T.**, & Rupprecht, R. (2018). False Belief Reasoning in Adults with and without Autistic Spectrum Disorder: Similarities and Differences. *Frontiers in Psychology, 9,* 183. [DOI: 10.3389/fpsyg.2018.00183](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00183/full)
+
+Schuwerk, T., & Paulus, M. (2018). Action Prediction in Autism. In F. R. Volkmar (Ed.), Encyclopedia of Autism Spectrum Disorders. New York, NY: Springer New York.
+
+### 2017
+Paulus, M., Schuwerk, T., Sodian, B., Ganglmayer, K. (2017). Children's and adults' use of verbal information to visually anticipate others' actions: A study on explicit and implicit social-cognitive processing. Cognition, 160, 145-152.
+
+Schuwerk, T., Schurz, M., Müller, F., Rupprecht, R., & Sommer, M. (2017). The rTPJ’s Overarching Cognitive Function in Networks for Attention and Theory of Mind. Social Cognitive and Affective Neuroscience, 12(1), 157-168.
+
+### 2016
+Schuwerk, T., Sodian, B., & Paulus, M. (2016). Cognitive Mechanisms Underlying Action Prediction in Children and Adults with Autism Spectrum Condition. Journal of Autism and Developmental Disorders, 46(12), 3623-3639.
+
+Döhnel, K., Schuwerk, T., Sodian, B., Hajak, G., Rupprecht, R., & Sommer, M. (2016). An fMRI study on the comparison of different types of false belief reasoning: False belief-based emotion and behaviour attribution. Social Neuroscience, (advance online publication).
+
+Schuwerk, T., Jarvers, I., Vuori, M., & Sodian, B. (2016). Implicit mentalizing persists beyond early childhood and is profoundly impaired in children with autism spectrum conditions, Frontiers in Psychology, 7:1696.
+
+Aldaqre, I., Schuwerk, T., Daum, M., Paulus, M., & Sodian, B. (2016). Sensitivity to communicative and non- communicative gestures in adolescents and adults with autism spectrum disorder. Experimental Brain Research, 234, 2515-2527.
+
+Schuwerk, T., & Paulus, M. (2016). Preschoolers, Adolescents, and Adults Visually Anticipate an Agent's Efficient Action; But Only After Having Learned to Make Use of Frequency Information. The Quarterly Journal of Experimental Psychology, 69(4), 800-816.
+
+### 2015
+Sodian, B., Schuwerk, T., & Kristen, S. (2015). Implicit and Spontaneous Theory of Mind Reasoning in Autism Spectrum Disorders. in M. Fitzgerald (Ed.), Autism. Rijeka: InTech.￼
+
+Schuwerk, T., Vuori, M., & Sodian, B. (2015). Implicit and explicit Theory of Mind reasoning in autism spectrum disorders: The impact of experience. Autism, 19(4), 459-468.
+
+### 2014
+Schuwerk T., Langguth B., & Sommer, M. (2014). Modulating functional and dysfunctional mentalizing by transcranial magnetic stimulation. Frontiers in Psychology, 5:1190.
+
+Schuwerk, T., Schecklmann, M., Langguth, B., Döhnel, K., Sodian, B., and Sommer, M. (2014). Inhibiting the posterior medial prefrontal cortex by rTMS decreases the discrepancy between self and other in Theory of Mind reasoning. Behavioral Brain Research, 274, 312-318.
+
+Schuwerk, T., Döhnel, K., Sodian, B., Keck, I.R., Rupprecht, R., and Sommer, M. (2014). Functional Activity and Effective Connectivity of the Posterior Medial Prefrontal Cortex during Processing of Incongruent Mental States. Human Brain Mapping, 35, 2950-2965.
+
+### 2012
+Döhnel, K., Schuwerk, T., Meinhardt, J., Sodian, B., Hajak, G., & Sommer, M. (2012). Functional activity of the right temporo-parietal junction and of the medial prefrontal cortex associated with true and false belief-based behaviour attribution. Neuroimage, 60, 1652-1661.
+
+Sommer, M., Döhnel, K., Schuwerk, T., & Hajak, G. (2012). Funktionell-neuroanatomische Grundlagen der Theory of Mind. in Förstl H. (Ed.), Theory of Mind: Neurobiologie und Psychologie sozialen Verhaltens (2. Auflage). Berlin: Springer.

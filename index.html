@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Tobias Schuwerk</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Tobias Schuwerk</h1>
+
+</div>
+
+
+<p><img src="pic.jpg" style="width:25%; margin-right: 20px" align="middle"></p>
+<div id="contact" class="section level2">
+<h2>Contact</h2>
+<p>Dr. Tobias Schuwerk, Dipl.-Psych.<br />
+Developmental Psychology<br />
+Ludwig-Maximilians-Universität München<br />
+Leopoldstr. 13<br />
+80802 München<br />
+Germany</p>
+<p><a href="mailto:tobias.schuwerk@psy.lmu.de">E-mail</a><br />
+<a href="https://twitter.com/TobiasSchuwerk">twitter</a></p>
+</div>
+<div id="research" class="section level2">
+<h2>Research</h2>
+<p>You can also embed plots, for example:</p>
+<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+</div>
+<div id="projects" class="section level2">
+<h2>Projects</h2>
+<div id="heureka" class="section level3">
+<h3>Heureka!</h3>
+</div>
+<div id="crossing" class="section level3">
+<h3>Crossing</h3>
+</div>
+<div id="manybabies2" class="section level3">
+<h3>ManyBabies2</h3>
+</div>
+</div>
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<div id="section" class="section level3">
+<h3>2018</h3>
+<p><strong>Schuwerk, T.</strong>, Priewasser, B., Sodian, B., &amp; Perner, J. (in press). The Robustness and Generalizability of Findings on Spontaneous False Belief Sensitivity. A Replication attempt. <em>Royal Society Open Science.</em> <a href="http://rsos.royalsocietypublishing.org/content/5/5/172273">DOI: 10.1098/rsos.172273</a></p>
+<p><strong>Schuwerk, T. (2018)</strong>. Autismus und soziale Interaktion im Alltag: neue Forschungswege [Autism and social interaction in everyday life: new research avenues]. <em>Persönlichkeitsstörungen: Theorie und Therapie, 22,</em> 72-84. <a href="https://www.klett-cotta.de/ausgabe/PTT_-_Persoenlichkeitsstoerungen_Heft_01_März_2018/93169?bereich_subnavi=heft">link</a></p>
+<p>Sommer, M., Döhnel, K., Jarvers, I., Blaas, L., Singer, M., Nöth, V., <strong>Schuwerk, T.</strong>, &amp; Rupprecht, R. (2018). False Belief Reasoning in Adults with and without Autistic Spectrum Disorder: Similarities and Differences. <em>Frontiers in Psychology, 9,</em> 183. <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00183/full">DOI: 10.3389/fpsyg.2018.00183</a></p>
+<p>Schuwerk, T., &amp; Paulus, M. (2018). Action Prediction in Autism. In F. R. Volkmar (Ed.), Encyclopedia of Autism Spectrum Disorders. New York, NY: Springer New York.</p>
+</div>
+<div id="section-1" class="section level3">
+<h3>2017</h3>
+<p>Paulus, M., Schuwerk, T., Sodian, B., Ganglmayer, K. (2017). Children’s and adults’ use of verbal information to visually anticipate others’ actions: A study on explicit and implicit social-cognitive processing. Cognition, 160, 145-152.</p>
+<p>Schuwerk, T., Schurz, M., Müller, F., Rupprecht, R., &amp; Sommer, M. (2017). The rTPJ’s Overarching Cognitive Function in Networks for Attention and Theory of Mind. Social Cognitive and Affective Neuroscience, 12(1), 157-168.</p>
+</div>
+<div id="section-2" class="section level3">
+<h3>2016</h3>
+<p>Schuwerk, T., Sodian, B., &amp; Paulus, M. (2016). Cognitive Mechanisms Underlying Action Prediction in Children and Adults with Autism Spectrum Condition. Journal of Autism and Developmental Disorders, 46(12), 3623-3639.</p>
+<p>Döhnel, K., Schuwerk, T., Sodian, B., Hajak, G., Rupprecht, R., &amp; Sommer, M. (2016). An fMRI study on the comparison of different types of false belief reasoning: False belief-based emotion and behaviour attribution. Social Neuroscience, (advance online publication).</p>
+<p>Schuwerk, T., Jarvers, I., Vuori, M., &amp; Sodian, B. (2016). Implicit mentalizing persists beyond early childhood and is profoundly impaired in children with autism spectrum conditions, Frontiers in Psychology, 7:1696.</p>
+<p>Aldaqre, I., Schuwerk, T., Daum, M., Paulus, M., &amp; Sodian, B. (2016). Sensitivity to communicative and non- communicative gestures in adolescents and adults with autism spectrum disorder. Experimental Brain Research, 234, 2515-2527.</p>
+<p>Schuwerk, T., &amp; Paulus, M. (2016). Preschoolers, Adolescents, and Adults Visually Anticipate an Agent’s Efficient Action; But Only After Having Learned to Make Use of Frequency Information. The Quarterly Journal of Experimental Psychology, 69(4), 800-816.</p>
+</div>
+<div id="section-3" class="section level3">
+<h3>2015</h3>
+<p>Sodian, B., Schuwerk, T., &amp; Kristen, S. (2015). Implicit and Spontaneous Theory of Mind Reasoning in Autism Spectrum Disorders. in M. Fitzgerald (Ed.), Autism. Rijeka: InTech.￼</p>
+<p>Schuwerk, T., Vuori, M., &amp; Sodian, B. (2015). Implicit and explicit Theory of Mind reasoning in autism spectrum disorders: The impact of experience. Autism, 19(4), 459-468.</p>
+</div>
+<div id="section-4" class="section level3">
+<h3>2014</h3>
+<p>Schuwerk T., Langguth B., &amp; Sommer, M. (2014). Modulating functional and dysfunctional mentalizing by transcranial magnetic stimulation. Frontiers in Psychology, 5:1190.</p>
+<p>Schuwerk, T., Schecklmann, M., Langguth, B., Döhnel, K., Sodian, B., and Sommer, M. (2014). Inhibiting the posterior medial prefrontal cortex by rTMS decreases the discrepancy between self and other in Theory of Mind reasoning. Behavioral Brain Research, 274, 312-318.</p>
+<p>Schuwerk, T., Döhnel, K., Sodian, B., Keck, I.R., Rupprecht, R., and Sommer, M. (2014). Functional Activity and Effective Connectivity of the Posterior Medial Prefrontal Cortex during Processing of Incongruent Mental States. Human Brain Mapping, 35, 2950-2965.</p>
+</div>
+<div id="section-5" class="section level3">
+<h3>2012</h3>
+<p>Döhnel, K., Schuwerk, T., Meinhardt, J., Sodian, B., Hajak, G., &amp; Sommer, M. (2012). Functional activity of the right temporo-parietal junction and of the medial prefrontal cortex associated with true and false belief-based behaviour attribution. Neuroimage, 60, 1652-1661.</p>
+<p>Sommer, M., Döhnel, K., Schuwerk, T., &amp; Hajak, G. (2012). Funktionell-neuroanatomische Grundlagen der Theory of Mind. in Förstl H. (Ed.), Theory of Mind: Neurobiologie und Psychologie sozialen Verhaltens (2. Auflage). Berlin: Springer.</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
