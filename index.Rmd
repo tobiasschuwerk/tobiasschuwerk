@@ -37,43 +37,43 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Publications
 
 ### 2018
-**Schuwerk, T.**, Priewasser, B., Sodian, B., & Perner, J. (in press). The Robustness and Generalizability of Findings on Spontaneous False Belief Sensitivity. A Replication attempt. *Royal Society Open Science.* [DOI: 10.1098/rsos.172273](http://rsos.royalsocietypublishing.org/content/5/5/172273)
+**Schuwerk, T.**, Priewasser, B., Sodian, B., & Perner, J. (2018). The Robustness and Generalizability of Findings on Spontaneous False Belief Sensitivity. A Replication attempt. *Royal Society Open Science, 5(5):* 172273 [DOI: 10.1098/rsos.172273](https://doi.org/10.1098/rsos.172273).
 
-**Schuwerk, T. (2018)**. Autismus und soziale Interaktion im Alltag: neue Forschungswege [Autism and social interaction in everyday life: new research avenues]. *Persönlichkeitsstörungen: Theorie und Therapie, 22,* 72-84. [link](https://www.klett-cotta.de/ausgabe/PTT_-_Persoenlichkeitsstoerungen_Heft_01_März_2018/93169?bereich_subnavi=heft)
+**Schuwerk, T. (2018)**. Autismus und soziale Interaktion im Alltag: neue Forschungswege [Autism and social interaction in everyday life: new research avenues]. *Persönlichkeitsstörungen: Theorie und Therapie, 22,* 72-84. [link](https://www.klett-cotta.de/ausgabe/PTT_-_Persoenlichkeitsstoerungen_Heft_01_März_2018/93169?bereich_subnavi=heft).
 
-Sommer, M., Döhnel, K., Jarvers, I., Blaas, L., Singer, M., Nöth, V., **Schuwerk, T.**, & Rupprecht, R. (2018). False Belief Reasoning in Adults with and without Autistic Spectrum Disorder: Similarities and Differences. *Frontiers in Psychology, 9,* 183. [DOI: 10.3389/fpsyg.2018.00183](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00183/full)
+Sommer, M., Döhnel, K., Jarvers, I., Blaas, L., Singer, M., Nöth, V., **Schuwerk, T.**, & Rupprecht, R. (2018). False Belief Reasoning in Adults with and without Autistic Spectrum Disorder: Similarities and Differences. *Frontiers in Psychology, 9,* 183. [DOI: 10.3389/fpsyg.2018.00183](https://doi.org/10.3389/fpsyg.2018.00183).
 
-Schuwerk, T., & Paulus, M. (2018). Action Prediction in Autism. In F. R. Volkmar (Ed.), Encyclopedia of Autism Spectrum Disorders. New York, NY: Springer New York.
+**Schuwerk, T.**, & Paulus, M. (2018). Action Prediction in Autism. In F. R. Volkmar (Ed.), *Encyclopedia of Autism Spectrum Disorders*. New York, NY: Springer New York. [DOI: 10.1007/978-1-4614-6435-8_102206-1](https://doi.org/10.1007/978-1-4614-6435-8_102206-1).
 
 ### 2017
-Paulus, M., Schuwerk, T., Sodian, B., Ganglmayer, K. (2017). Children's and adults' use of verbal information to visually anticipate others' actions: A study on explicit and implicit social-cognitive processing. Cognition, 160, 145-152.
+Paulus, M., **Schuwerk, T.**, Sodian, B., Ganglmayer, K. (2017). Children's and adults' use of verbal information to visually anticipate others' actions: A study on explicit and implicit social-cognitive processing. *Cognition, 160,* 145-152. [DOI: 10.1016/j.cognition.2016.12.013](https://doi.org/10.1016/j.cognition.2016.12.013). 
 
-Schuwerk, T., Schurz, M., Müller, F., Rupprecht, R., & Sommer, M. (2017). The rTPJ’s Overarching Cognitive Function in Networks for Attention and Theory of Mind. Social Cognitive and Affective Neuroscience, 12(1), 157-168.
+**Schuwerk, T.**, Schurz, M., Müller, F., Rupprecht, R., & Sommer, M. (2017). The rTPJ’s Overarching Cognitive Function in Networks for Attention and Theory of Mind. *Social Cognitive and Affective Neuroscience, 12(1),* 157-168. [DOI: 10.1093/scan/nsw163](https://doi.org/10.1093/scan/nsw163).
 
 ### 2016
-Schuwerk, T., Sodian, B., & Paulus, M. (2016). Cognitive Mechanisms Underlying Action Prediction in Children and Adults with Autism Spectrum Condition. Journal of Autism and Developmental Disorders, 46(12), 3623-3639.
+**Schuwerk, T.**, Sodian, B., & Paulus, M. (2016). Cognitive Mechanisms Underlying Action Prediction in Children and Adults with Autism Spectrum Condition. *Journal of Autism and Developmental Disorders, 46(12),* 3623-3639. [DOI: 10.1007/s10803-016-2899-x](https://doi.org/10.1007/s10803-016-2899-x).
 
-Döhnel, K., Schuwerk, T., Sodian, B., Hajak, G., Rupprecht, R., & Sommer, M. (2016). An fMRI study on the comparison of different types of false belief reasoning: False belief-based emotion and behaviour attribution. Social Neuroscience, (advance online publication).
+Döhnel, K., **Schuwerk, T.**, Sodian, B., Hajak, G., Rupprecht, R., & Sommer, M. (2016). An fMRI study on the comparison of different types of false belief reasoning: False belief-based emotion and behaviour attribution. *Social Neuroscience, 12:6,* 730-742. [DOI: 10.1080/17470919.2016.1241823](https://doi.org/10.1080/17470919.2016.1241823).
 
-Schuwerk, T., Jarvers, I., Vuori, M., & Sodian, B. (2016). Implicit mentalizing persists beyond early childhood and is profoundly impaired in children with autism spectrum conditions, Frontiers in Psychology, 7:1696.
+**Schuwerk, T.**, Jarvers, I., Vuori, M., & Sodian, B. (2016). Implicit mentalizing persists beyond early childhood and is profoundly impaired in children with autism spectrum conditions, *Frontiers in Psychology,* 7:1696. [DOI: 10.3389/fpsyg.2016.01696](https://doi.org/10.3389/fpsyg.2016.01696). 
 
-Aldaqre, I., Schuwerk, T., Daum, M., Paulus, M., & Sodian, B. (2016). Sensitivity to communicative and non- communicative gestures in adolescents and adults with autism spectrum disorder. Experimental Brain Research, 234, 2515-2527.
+Aldaqre, I., **Schuwerk, T.**, Daum, M., Paulus, M., & Sodian, B. (2016). Sensitivity to communicative and non- communicative gestures in adolescents and adults with autism spectrum disorder. *Experimental Brain Research, 234,* 2515-2527. [DOI: 10.1007/s00221-016-4656-y](https://doi.org/10.1007/s00221-016-4656-y).
 
-Schuwerk, T., & Paulus, M. (2016). Preschoolers, Adolescents, and Adults Visually Anticipate an Agent's Efficient Action; But Only After Having Learned to Make Use of Frequency Information. The Quarterly Journal of Experimental Psychology, 69(4), 800-816.
+**Schuwerk, T.**, & Paulus, M. (2016). Preschoolers, Adolescents, and Adults Visually Anticipate an Agent's Efficient Action; But Only After Having Learned to Make Use of Frequency Information. *The Quarterly Journal of Experimental Psychology, 69(4),* 800-816. [DOI: 10.1080/17470218.2015.1061028](https://doi.org/10.1080/17470218.2015.1061028).
 
 ### 2015
-Sodian, B., Schuwerk, T., & Kristen, S. (2015). Implicit and Spontaneous Theory of Mind Reasoning in Autism Spectrum Disorders. in M. Fitzgerald (Ed.), Autism. Rijeka: InTech.￼
+Sodian, B., **Schuwerk, T.**, & Kristen, S. (2015). Implicit and Spontaneous Theory of Mind Reasoning in Autism Spectrum Disorders. in M. Fitzgerald (Ed.), *Autism*. Rijeka: InTech. [DOI: 10.5772/59393](http://dx.doi.org/10.5772/59393).
 
-Schuwerk, T., Vuori, M., & Sodian, B. (2015). Implicit and explicit Theory of Mind reasoning in autism spectrum disorders: The impact of experience. Autism, 19(4), 459-468.
+**Schuwerk, T.**, Vuori, M., & Sodian, B. (2015). Implicit and explicit Theory of Mind reasoning in autism spectrum disorders: The impact of experience. *Autism, 19(4),* 459-468. [DOI: 10.1177/1362361314526004](https://doi.org/10.1177/1362361314526004).
 
 ### 2014
-Schuwerk T., Langguth B., & Sommer, M. (2014). Modulating functional and dysfunctional mentalizing by transcranial magnetic stimulation. Frontiers in Psychology, 5:1190.
+**Schuwerk T.**, Langguth B., & Sommer, M. (2014). Modulating functional and dysfunctional mentalizing by transcranial magnetic stimulation. *Frontiers in Psychology,* 5:1190. [DOI: 10.3389/fpsyg.2014.01309](https://doi.org/10.3389/fpsyg.2014.01309).
 
-Schuwerk, T., Schecklmann, M., Langguth, B., Döhnel, K., Sodian, B., and Sommer, M. (2014). Inhibiting the posterior medial prefrontal cortex by rTMS decreases the discrepancy between self and other in Theory of Mind reasoning. Behavioral Brain Research, 274, 312-318.
+**Schuwerk, T.**, Schecklmann, M., Langguth, B., Döhnel, K., Sodian, B., and Sommer, M. (2014). Inhibiting the posterior medial prefrontal cortex by rTMS decreases the discrepancy between self and other in Theory of Mind reasoning. *Behavioral Brain Research, 274,* 312-318. [DOI: 10.1016/j.bbr.2014.08.031](https://doi.org/10.1016/j.bbr.2014.08.031).
 
-Schuwerk, T., Döhnel, K., Sodian, B., Keck, I.R., Rupprecht, R., and Sommer, M. (2014). Functional Activity and Effective Connectivity of the Posterior Medial Prefrontal Cortex during Processing of Incongruent Mental States. Human Brain Mapping, 35, 2950-2965.
+**Schuwerk, T.**, Döhnel, K., Sodian, B., Keck, I.R., Rupprecht, R., and Sommer, M. (2014). Functional Activity and Effective Connectivity of the Posterior Medial Prefrontal Cortex during Processing of Incongruent Mental States. *Human Brain Mapping, 35,* 2950-2965. [DOI: 10.1002/hbm.22377](https://doi.org/10.1002/hbm.22377).
 
 ### 2012
-Döhnel, K., Schuwerk, T., Meinhardt, J., Sodian, B., Hajak, G., & Sommer, M. (2012). Functional activity of the right temporo-parietal junction and of the medial prefrontal cortex associated with true and false belief-based behaviour attribution. Neuroimage, 60, 1652-1661.
+Döhnel, K., **Schuwerk, T.**, Meinhardt, J., Sodian, B., Hajak, G., & Sommer, M. (2012). Functional activity of the right temporo-parietal junction and of the medial prefrontal cortex associated with true and false belief-based behaviour attribution. *Neuroimage, 60,* 1652-1661. [DOI: 10.1016/j.neuroimage.2012.01.073 ](https://doi.org/10.1016/j.neuroimage.2012.01.073).
 
-Sommer, M., Döhnel, K., Schuwerk, T., & Hajak, G. (2012). Funktionell-neuroanatomische Grundlagen der Theory of Mind. in Förstl H. (Ed.), Theory of Mind: Neurobiologie und Psychologie sozialen Verhaltens (2. Auflage). Berlin: Springer.
+Sommer, M., Döhnel, K., **Schuwerk, T.**, & Hajak, G. (2012). Funktionell-neuroanatomische Grundlagen der Theory of Mind [Functional neuroanatomic basis of Theory of Mind]. in Förstl H. (Ed.), *Theory of Mind: Neurobiologie und Psychologie sozialen Verhaltens* (2. Auflage). Berlin: Springer. [DOI: 10.1007/978-3-642-24916-7_8](https://doi.org/10.1007/978-3-642-24916-7_8).
