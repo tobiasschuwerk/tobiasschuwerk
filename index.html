@@ -73,9 +73,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -100,21 +98,82 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -203,6 +262,16 @@ div.tocify {
 
 </style>
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row-fluid">
 <div class="col-xs-12 col-sm-4 col-md-3">
@@ -227,7 +296,7 @@ div.tocify {
 <p><img src="pic.jpg" style="width:25%; margin-right: 20px" align="middle"></p>
 <div id="contact" class="section level2">
 <h2>Contact</h2>
-<p>Dr. Tobias Schuwerk, Dipl.-Psych.<br />
+<p>PD Dr. Tobias Schuwerk, Dipl.-Psych.<br />
 Developmental Psychology<br />
 Ludwig-Maximilians-Universität München<br />
 Leopoldstr. 13<br />
@@ -244,6 +313,10 @@ Germany</p>
 </div>
 <div id="current-projects" class="section level2">
 <h2>Current projects</h2>
+<div id="enter-the-wild-testing-social-cognitive-theories-in-everyday-life" class="section level3">
+<h3>Enter the Wild: Testing social cognitive theories in everyday life</h3>
+<p>Theories derived from lab-based research emphasize the importance of mentalizing for social interaction and propose a link between mentalizing, autistic traits, and social behavior. Yet, there is a large gap between the solid empirical basis of mentalizing characteristics in the lab and knowledge about actual social interaction in everyday lives of people with and without autism. In this project, we take social cognitive research outside the lab to test these assumptions in everyday life. Via smartphone-based experience sampling and logging of smartphone usage behavior we quantify mentalizing and social interaction in our participants’ natural environment. By testing their scope and validity, our approach critically informs recent theories on social cognition, social behavior, and the role of autistic traits in these phenomena. This project is funded by a grant from LMUexcellent.</p>
+</div>
 <div id="heureka-a-platform-for-participatory-autism-research" class="section level3">
 <h3>Heureka! A platform for participatory autism research</h3>
 <p>It has long been claimed that direct experiences of autistic people and their parents are crucial to inform and guide theoretically important and practically relevant research. Yet, structures that enable systematic participation are often missing. Heureka! addresses this issue. In this forum, autistic and non-autistic people collaborate on designing autism research that can make the highest possible contribution to improving living conditions of autistic people and their families. Only a systematic participation of people with autism and their families helps to prevent that researchers introduce a bias from their non-autistic point of view to their research, without hearing the experts on their own: people with autism. This project is developed in cooperation with Leonhard Schilbach and Hanna Thaler (MPI for Psychiatry, Munich).</p>
@@ -264,6 +337,7 @@ For an English version click <a href="https://www.heureka-autismusforschungsforu
 <h2>Publications</h2>
 <div id="preprints" class="section level3">
 <h3>Preprints</h3>
+<p>Stachl, C., Au, Q., Schoedel, R., Buschek, D., Völkel, S.T., <strong>Schuwerk, T.</strong>, Oldemeier, M., Ullmann, T., Hussmann, H., Bischl, B., &amp; Bühner, M. (2019, June 12). Behavioral Patterns in Smartphone Usage Predict Big Five Personality Traits. <a href="https://doi.org/10.31234/osf.io/ks4vd">DOI: 10.31234/osf.io/ks4vd</a></p>
 <p><strong>Schuwerk, T.</strong>, Kaltefleiter, L.J., Au, Q., Hoesl, A., &amp; Stachl, C. (2018, November 6). Enter the Wild: Autistic Traits and Their Relationship to Mentalizing and Social Interaction in Everyday Life. <a href="https://doi.org/10.31234/osf.io/rxatn">DOI: 10.31234/osf.io/rxatn</a></p>
 </div>
 <div id="section" class="section level3">
