@@ -48,15 +48,18 @@ For details and updates on this project visit: [manybabies.github.io](https://ma
 
 ## Publications
 
-### Preprints
+### Preprint(s)
 
 Stachl, C., Au, Q., Schoedel, R., Buschek, D., Völkel, S.T., **Schuwerk, T.**, Oldemeier, M., Ullmann, T., Hussmann, H., Bischl, B., & Bühner, M. (2019, June 12). Behavioral Patterns in Smartphone Usage Predict Big Five Personality Traits. [DOI: 10.31234/osf.io/ks4vd](https://doi.org/10.31234/osf.io/ks4vd)
 
-**Schuwerk, T.**, Kaltefleiter, L.J., Au, Q., Hoesl, A., & Stachl, C. (2018, November 6). Enter the Wild: Autistic Traits and Their Relationship to Mentalizing and Social Interaction in Everyday Life. [DOI: 10.31234/osf.io/rxatn](https://doi.org/10.31234/osf.io/rxatn)
-
 ### 2019
+**Schuwerk, T.**, Bätz, J., Träuble, B., Sodian, B., & Paulus, M. (2019). Do ostensive cues affect object processing in children with and without autism? A test of natural pedagogy theory. *Psychological Research*, [DOI: 10.1007/s00426-019-01223-0](https://doi.org/10.1007/s00426-019-01223-0).
 
-Ganglmayer, K., **Schuwerk, T.**, Sodian, B., & Paulus, M. (2019). Do Children and Adults with Autism Spectrum Condition Anticipate Others’ Actions as Goal-Directed? A Predictive Coding Perspective. *Journal of Autism and Developmental Disorders*. [Link](https://link.springer.com/article/10.1007/s10803-019-03964-8).
+
+**Schuwerk, T.**, Kaltefleiter, L.J., Au, Q., Hoesl, A., & Stachl, C. (2019). Enter the Wild: Autistic Traits and Their Relationship to Mentalizing and Social Interaction in Everyday Life. *Journal of Autism and Developmental Disorders*, [DOI: 10.1007/s10803-019-04134-6](https://doi.org/10.1007/s10803-019-04134-6).
+[Preprint](https://doi.org/10.31234/osf.io/rxatn)
+
+Ganglmayer, K., **Schuwerk, T.**, Sodian, B., & Paulus, M. (2019). Do Children and Adults with Autism Spectrum Condition Anticipate Others’ Actions as Goal-Directed? A Predictive Coding Perspective. *Journal of Autism and Developmental Disorders*, [DOI: 10.1007/s10803-019-03964-8](https://link.springer.com/article/10.1007/s10803-019-03964-8).
 
 Grosso, S.S., **Schuwerk, T.**, Kaltefleiter, L. J., & Sodian, B. (2019). 33-month-old children succeed in a false belief task with reduced processing demands: A replication of Setoh et al.(2016). *Infant Behavior and Development, 54* 151-155. [DOI: 10.1016/j.infbeh.2018.09.012](https://doi.org/10.1016/j.infbeh.2018.09.012).
 
